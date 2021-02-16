@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KumarVikky
-- 👀 I’m interested in @coding.
+- 👀 I’m interested in @Coding.
 - 🌱 I’m currently learning @Salesforce
 - 💞️ I’m looking to collaborate on @Github
 - 📫 you can reach me @vikky.kumar270@gmail.com
